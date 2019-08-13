@@ -1,4 +1,4 @@
-<p align="center"><img alt="JssDream 的个人博客" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
+<p align="center"><img alt="JssDream 的个人博客" src="https://img.hacpai.com/avatar/1557586345620_1565678132090.png"></p><h2 align="center">
 JssDream 的个人博客
 </h2>
 
@@ -10,6 +10,7 @@ JssDream 的个人博客
 
 ### 最新
 
+* [关于Linux的定时任务crontab执行失败(报错No such file or directory)](http://hjava.cn/articles/2019/08/13/1565669241375.html)
 * [世界，你好！](http://hjava.cn/hello-solo)
 
 
