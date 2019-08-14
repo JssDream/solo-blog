@@ -10,6 +10,7 @@ JssDream 的个人博客
 
 ### 最新
 
+* [页脚增加网站运行时间统计](http://hjava.cn/articles/2019/08/13/1565684501665.html)
 * [关于Linux的定时任务crontab执行失败(报错No such file or directory)](http://hjava.cn/articles/2019/08/13/1565669241375.html)
 * [世界，你好！](http://hjava.cn/hello-solo)
 
