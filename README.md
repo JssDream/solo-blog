@@ -10,6 +10,7 @@ JssDream 的个人博客
 
 ### 最新
 
+* [Spring Boot2.0配置Jackson日期格式输出](http://hjava.cn/articles/2019/08/23/1566533019629.html)
 * [Spring Boot启动自定义Banner](http://hjava.cn/articles/2019/08/20/1566281280069.html)
 * [关于Spring Boot跨域解决](http://hjava.cn/articles/2019/08/14/1565775617177.html)
 * [页脚增加网站运行时间统计](http://hjava.cn/articles/2019/08/13/1565684501665.html)
