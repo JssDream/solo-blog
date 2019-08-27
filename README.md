@@ -10,6 +10,9 @@ JssDream 的个人博客
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://hjava.cn/my-github-repos)
+* [Spring Boot事务](http://hjava.cn/articles/2019/08/27/1566901901979.html)
+* [修改MySQL密码](http://hjava.cn/articles/2019/08/27/1566878096384.html)
 * [世界，你好！](http://hjava.cn/hello-solo)
 * [Spring Boot2.0配置Jackson日期格式输出](http://hjava.cn/articles/2019/08/23/1566533019629.html)
 * [Spring Boot启动自定义Banner](http://hjava.cn/articles/2019/08/20/1566281280069.html)
