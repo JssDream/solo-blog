@@ -10,17 +10,18 @@ JssDream 的个人博客
 
 ### 最新
 
-* [十分钟搞定——Nginx安装SSL](https://www.hjava.cn/articles/2019/09/03/1567514885863.html)
-* [Spring Boot切面类添加接口调用耗时](https://www.hjava.cn/articles/2019/08/28/1566992344180.html)
-* [Linux定时备份Docker的MySQL数据库](https://www.hjava.cn/articles/2019/08/28/1566980010076.html)
-* [Spring Boot事务](https://www.hjava.cn/articles/2019/08/27/1566901901979.html)
-* [修改MySQL密码](https://www.hjava.cn/articles/2019/08/27/1566878096384.html)
-* [世界，你好！](https://www.hjava.cn/hello-solo)
-* [Spring Boot2.0配置Jackson日期格式输出](https://www.hjava.cn/articles/2019/08/23/1566533019629.html)
-* [Spring Boot启动自定义Banner](https://www.hjava.cn/articles/2019/08/20/1566281280069.html)
-* [关于Spring Boot跨域解决](https://www.hjava.cn/articles/2019/08/14/1565775617177.html)
-* [页脚增加网站运行时间统计](https://www.hjava.cn/articles/2019/08/13/1565684501665.html)
-* [关于Linux的定时任务crontab执行失败(报错No such file or directory)](https://www.hjava.cn/articles/2019/08/13/1565669241375.html)
+* [开源分享—Navicat全系产品注册激活](https://hjava.cn/articles/2019/09/11/1568201889402.html)
+* [十分钟搞定——Nginx安装SSL](https://hjava.cn/articles/2019/09/03/1567514885863.html)
+* [Spring Boot切面类添加接口调用耗时](https://hjava.cn/articles/2019/08/28/1566992344180.html)
+* [Linux定时备份Docker的MySQL数据库](https://hjava.cn/articles/2019/08/28/1566980010076.html)
+* [Spring Boot事务](https://hjava.cn/articles/2019/08/27/1566901901979.html)
+* [修改MySQL密码](https://hjava.cn/articles/2019/08/27/1566878096384.html)
+* [世界，你好！](https://hjava.cn/hello-solo)
+* [Spring Boot2.0配置Jackson日期格式输出](https://hjava.cn/articles/2019/08/23/1566533019629.html)
+* [Spring Boot启动自定义Banner](https://hjava.cn/articles/2019/08/20/1566281280069.html)
+* [关于Spring Boot跨域解决](https://hjava.cn/articles/2019/08/14/1565775617177.html)
+* [页脚增加网站运行时间统计](https://hjava.cn/articles/2019/08/13/1565684501665.html)
+* [关于Linux的定时任务crontab执行失败(报错No such file or directory)](https://hjava.cn/articles/2019/08/13/1565669241375.html)
 
 
 
