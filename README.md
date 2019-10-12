@@ -14,7 +14,7 @@ JssDream 的个人博客
 * [Golang语言全栈开发视频教程全集](https://hjava.cn/articles/2019/09/27/1569578348835.html)
 * [sublime text 3 3207 破解+注册码](https://hjava.cn/articles/2019/09/26/1569491521771.html)
 * [Python国内仓库源](https://hjava.cn/articles/2019/09/21/1569059862194.html)
-* [百度网盘——电影分享(哪吒之魔童降世,《速度与激情：特别行动》高清韩版中字资源)](https://hjava.cn/articles/2019/09/21/1569038940574.html)
+* [百度网盘——电影分享](https://hjava.cn/articles/2019/09/21/1569038940574.html)
 * [Docker删除none镜像](https://hjava.cn/articles/2019/09/19/1568896011749.html)
 * [开源分享—Navicat全系产品注册激活](https://hjava.cn/articles/2019/09/11/1568201889402.html)
 * [十分钟搞定——Nginx安装SSL](https://hjava.cn/articles/2019/09/03/1567514885863.html)
