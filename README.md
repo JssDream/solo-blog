@@ -10,6 +10,7 @@ JssDream 的个人博客
 
 ### 最新
 
+* [罗小黑战记——百度网盘4K资源](https://hjava.cn/articles/2019/10/19/1571469540711.html)
 * [《黑客军团》第一二三季——美剧分享](https://hjava.cn/articles/2019/10/17/1571301097079.html)
 * [2019最新手机号正则表达式](https://hjava.cn/articles/2019/10/11/1570793784688.html)
 * [Golang语言全栈开发视频教程全集](https://hjava.cn/articles/2019/09/27/1569578348835.html)
