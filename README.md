@@ -10,6 +10,7 @@ JssDream 的个人博客
 
 ### 最新
 
+* [Spring Boot——@SpringBootApplication(exclude = DataSourceAutoConfiguration.class)](https://hjava.cn/articles/2019/10/30/1572431859394.html)
 * [薅羊毛——0元撸腾讯云服务器(云硬盘...)](https://hjava.cn/articles/2019/10/29/1572314884193.html)
 * [2019年京东双十一活动——全民养红包](https://hjava.cn/articles/2019/10/22/1571713204417.html)
 * [罗小黑战记——百度网盘4K资源](https://hjava.cn/articles/2019/10/19/1571469540711.html)
@@ -29,11 +30,11 @@ JssDream 的个人博客
 * [世界，你好！](https://hjava.cn/hello-solo)
 * [Spring Boot2.0配置Jackson日期格式输出](https://hjava.cn/articles/2019/08/23/1566533019629.html)
 * [Spring Boot启动自定义Banner](https://hjava.cn/articles/2019/08/20/1566281280069.html)
-* [关于Spring Boot跨域解决](https://hjava.cn/articles/2019/08/14/1565775617177.html)
 
 ### 热门
 
 * [页脚增加网站运行时间统计](https://hjava.cn/articles/2019/08/13/1565684501665.html)
+* [关于Spring Boot跨域解决](https://hjava.cn/articles/2019/08/14/1565775617177.html)
 * [关于Linux的定时任务crontab执行失败(报错No such file or directory)](https://hjava.cn/articles/2019/08/13/1565669241375.html)
 
 
