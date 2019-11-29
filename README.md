@@ -5,8 +5,8 @@ JssDream 的个人博客
 <h4 align="center">静以修身，俭以养德</h4>
 <p align="center"><a title="JssDream 的个人博客" target="_blank" href="https://github.com/JssDream/solo-blog"><img src="https://img.shields.io/github/last-commit/JssDream/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/JssDream/solo-blog"><img src="https://img.shields.io/github/repo-size/JssDream/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.7-f1e05a.svg?style=flat-square&color=blueviolet"></a>
-<a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/JssDream/solo-blog.svg"></a></p>
+<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.7-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/JssDream/solo-blog.svg"></a></p>
 
 ### 最新
 
@@ -35,12 +35,12 @@ JssDream 的个人博客
 
 * [Spring Boot启动自定义Banner](https://hjava.cn/articles/2019/08/20/1566281280069.html)
 * [Spring Boot2.0配置Jackson日期格式输出](https://hjava.cn/articles/2019/08/23/1566533019629.html)
-* [页脚增加网站运行时间统计](https://hjava.cn/articles/2019/08/13/1565684501665.html)
 * [关于Spring Boot跨域解决](https://hjava.cn/articles/2019/08/14/1565775617177.html)
+* [页脚增加网站运行时间统计](https://hjava.cn/articles/2019/08/13/1565684501665.html)
 * [关于Linux的定时任务crontab执行失败(报错No such file or directory)](https://hjava.cn/articles/2019/08/13/1565669241375.html)
 
 
 
 ---
 
-本仓库通过 [Solo](https://github.com/b3log/solo) 自动进行同步更新 ❤️ 
+本仓库通过 [Solo](https://github.com/88250/solo) 自动进行同步更新 ❤️ 
