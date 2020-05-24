@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [记录.gitignore文件不起作用](https://www.hjava.cn/articles/2020/05/24/1590312447443.html)
 * [EasyPOI—导出Excel图片问题](https://www.hjava.cn/articles/2020/04/27/1587970259806.html)
 * [Github+jsDelivr为脚本/图片等静态文件加速的全球CDN](https://www.hjava.cn/articles/2020/04/01/1585736011733.html)
 * [【薅羊毛】招商 APP- 理财福利](https://www.hjava.cn/articles/2020/03/27/1585289293648.html)
@@ -29,7 +30,6 @@
 * [Python国内仓库源](https://www.hjava.cn/articles/2019/09/21/1569059862194.html)
 * [百度网盘——电影分享](https://www.hjava.cn/articles/2019/09/21/1569038940574.html)
 * [Docker删除none镜像](https://www.hjava.cn/articles/2019/09/19/1568896011749.html)
-* [开源分享—Navicat全系产品注册激活](https://www.hjava.cn/articles/2019/09/11/1568201889402.html)
 
 ### 热门
 
@@ -41,6 +41,7 @@
 * [十分钟搞定——Nginx安装SSL](https://www.hjava.cn/articles/2019/09/03/1567514885863.html)
 * [Spring Boot切面类添加接口调用耗时](https://www.hjava.cn/articles/2019/08/28/1566992344180.html)
 * [Linux定时备份Docker的MySQL数据库](https://www.hjava.cn/articles/2019/08/28/1566980010076.html)
+* [开源分享—Navicat全系产品注册激活](https://www.hjava.cn/articles/2019/09/11/1568201889402.html)
 * [页脚增加网站运行时间统计](https://www.hjava.cn/articles/2019/08/13/1565684501665.html)
 * [修改MySQL密码](https://www.hjava.cn/articles/2019/08/27/1566878096384.html)
 * [世界，你好！](https://www.hjava.cn/hello-solo)
