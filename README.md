@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [记录IDEA的关于数据库连接问题](https://www.hjava.cn/articles/2020/06/10/1591791265043.html)
 * [Office 365的版本说明(A1/A1P/E3 MSDN/E3 Trial)以及常见问题](https://www.hjava.cn/articles/2020/05/29/1590746577309.html)
 * [分享—随机二次元图片API](https://www.hjava.cn/articles/2020/05/26/1590475418750.html)
 * [记录.gitignore文件不起作用](https://www.hjava.cn/articles/2020/05/24/1590312447443.html)
@@ -29,7 +30,6 @@
 * [2019最新手机号正则表达式](https://www.hjava.cn/articles/2019/10/11/1570793784688.html)
 * [Golang语言全栈开发视频教程全集](https://www.hjava.cn/articles/2019/09/27/1569578348835.html)
 * [sublime text 3 3207 破解+注册码](https://www.hjava.cn/articles/2019/09/26/1569491521771.html)
-* [Python国内仓库源](https://www.hjava.cn/articles/2019/09/21/1569059862194.html)
 
 ### 热门
 
@@ -46,6 +46,7 @@
 * [页脚增加网站运行时间统计](https://www.hjava.cn/articles/2019/08/13/1565684501665.html)
 * [修改MySQL密码](https://www.hjava.cn/articles/2019/08/27/1566878096384.html)
 * [世界，你好！](https://www.hjava.cn/hello-solo)
+* [Python国内仓库源](https://www.hjava.cn/articles/2019/09/21/1569059862194.html)
 * [Docker删除none镜像](https://www.hjava.cn/articles/2019/09/19/1568896011749.html)
 
 
