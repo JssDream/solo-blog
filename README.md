@@ -5,7 +5,7 @@
 <h4 align="center">静以修身，俭以养德</h4>
 <p align="center"><a title="少言少语" target="_blank" href="https://github.com/JssDream/solo-blog"><img src="https://img.shields.io/github/last-commit/JssDream/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/JssDream/solo-blog"><img src="https://img.shields.io/github/repo-size/JssDream/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.1.0-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.2.0-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/JssDream/solo-blog.svg"></a></p>
 
 ### 最新
