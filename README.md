@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [MinIO-炒鸡好用的网盘+文件服务器](https://www.hjava.cn/articles/2020/07/24/1595578346772.html)
 * [EasyPoi导出字段为超链接](https://www.hjava.cn/articles/2020/06/17/1592396658708.html)
 * [记录IDEA的关于数据库连接问题](https://www.hjava.cn/articles/2020/06/10/1591791265043.html)
 * [Office 365的版本说明(A1/A1P/E3 MSDN/E3 Trial)以及常见问题](https://www.hjava.cn/articles/2020/05/29/1590746577309.html)
@@ -29,10 +30,10 @@
 * [罗小黑战记——百度网盘4K资源](https://www.hjava.cn/articles/2019/10/19/1571469540711.html)
 * [《黑客军团》第一二三季——美剧分享](https://www.hjava.cn/articles/2019/10/17/1571301097079.html)
 * [2019最新手机号正则表达式](https://www.hjava.cn/articles/2019/10/11/1570793784688.html)
-* [Golang语言全栈开发视频教程全集](https://www.hjava.cn/articles/2019/09/27/1569578348835.html)
 
 ### 热门
 
+* [Golang语言全栈开发视频教程全集](https://www.hjava.cn/articles/2019/09/27/1569578348835.html)
 * [百度网盘——电影分享](https://www.hjava.cn/articles/2019/09/21/1569038940574.html)
 * [Spring Boot启动自定义Banner](https://www.hjava.cn/articles/2019/08/20/1566281280069.html)
 * [关于Linux的定时任务crontab执行失败(报错No such file or directory)](https://www.hjava.cn/articles/2019/08/13/1565669241375.html)
