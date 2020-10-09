@@ -5,7 +5,7 @@
 <h4 align="center">静以修身，俭以养德</h4>
 <p align="center"><a title="少言少语" target="_blank" href="https://github.com/JssDream/solo-blog"><img src="https://img.shields.io/github/last-commit/JssDream/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/JssDream/solo-blog"><img src="https://img.shields.io/github/repo-size/JssDream/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.2.0-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.3.1-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/JssDream/solo-blog.svg"></a></p>
 
 ### 最新
@@ -30,28 +30,6 @@
 * [薅羊毛——0元撸腾讯云服务器(云硬盘...)](https://www.hjava.cn/articles/2019/10/29/1572314884193.html)
 * [2019年京东双十一活动——全民养红包](https://www.hjava.cn/articles/2019/10/22/1571713204417.html)
 * [罗小黑战记——百度网盘4K资源](https://www.hjava.cn/articles/2019/10/19/1571469540711.html)
-
-### 热门
-
-* [Golang语言全栈开发视频教程全集](https://www.hjava.cn/articles/2019/09/27/1569578348835.html)
-* [百度网盘——电影分享](https://www.hjava.cn/articles/2019/09/21/1569038940574.html)
-* [《黑客军团》第一二三季——美剧分享](https://www.hjava.cn/articles/2019/10/17/1571301097079.html)
-* [Spring Boot启动自定义Banner](https://www.hjava.cn/articles/2019/08/20/1566281280069.html)
-* [关于Linux的定时任务crontab执行失败(报错No such file or directory)](https://www.hjava.cn/articles/2019/08/13/1565669241375.html)
-* [Spring Boot事务](https://www.hjava.cn/articles/2019/08/27/1566901901979.html)
-* [Spring Boot2.0配置Jackson日期格式输出](https://www.hjava.cn/articles/2019/08/23/1566533019629.html)
-* [关于Spring Boot跨域解决](https://www.hjava.cn/articles/2019/08/14/1565775617177.html)
-* [十分钟搞定——Nginx安装SSL](https://www.hjava.cn/articles/2019/09/03/1567514885863.html)
-* [Spring Boot切面类添加接口调用耗时](https://www.hjava.cn/articles/2019/08/28/1566992344180.html)
-* [Linux定时备份Docker的MySQL数据库](https://www.hjava.cn/articles/2019/08/28/1566980010076.html)
-* [开源分享—Navicat全系产品注册激活](https://www.hjava.cn/articles/2019/09/11/1568201889402.html)
-* [页脚增加网站运行时间统计](https://www.hjava.cn/articles/2019/08/13/1565684501665.html)
-* [修改MySQL密码](https://www.hjava.cn/articles/2019/08/27/1566878096384.html)
-* [世界，你好！](https://www.hjava.cn/hello-solo)
-* [Python国内仓库源](https://www.hjava.cn/articles/2019/09/21/1569059862194.html)
-* [sublime text 3 3207 破解+注册码](https://www.hjava.cn/articles/2019/09/26/1569491521771.html)
-* [Docker删除none镜像](https://www.hjava.cn/articles/2019/09/19/1568896011749.html)
-* [2019最新手机号正则表达式](https://www.hjava.cn/articles/2019/10/11/1570793784688.html)
 
 
 
