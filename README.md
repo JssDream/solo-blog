@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Java中针对List集合(交集/并集/差集)和数组的Lambda操作](https://www.hjava.cn/articles/2020/12/07/1607345203030.html)
 * [Spring Cloud版本号](https://www.hjava.cn/articles/2020/08/20/1597909638127.html)
 * [GitHub 沙雕项目](https://www.hjava.cn/articles/2020/07/30/1596112525485.html)
 * [MinIO-炒鸡好用的网盘+文件服务器](https://www.hjava.cn/articles/2020/07/24/1595578346772.html)
@@ -29,7 +30,6 @@
 * [Spring Boot——@SpringBootApplication(exclude = DataSourceAutoConfiguration.class)](https://www.hjava.cn/articles/2019/10/30/1572431859394.html)
 * [薅羊毛——0元撸腾讯云服务器(云硬盘...)](https://www.hjava.cn/articles/2019/10/29/1572314884193.html)
 * [2019年京东双十一活动——全民养红包](https://www.hjava.cn/articles/2019/10/22/1571713204417.html)
-* [罗小黑战记——百度网盘4K资源](https://www.hjava.cn/articles/2019/10/19/1571469540711.html)
 
 
 
