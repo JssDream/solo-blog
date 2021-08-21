@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [高并发之查询并更新原子问题](https://www.hjava.cn/articles/2021/08/20/1629450256915.html)
 * [架构—秒杀系统优化思路](https://www.hjava.cn/articles/2021/07/09/1625814815830.html)
 * [Java中针对List集合(交集/并集/差集)和数组的Lambda操作](https://www.hjava.cn/articles/2020/12/07/1607345203030.html)
 * [Spring Cloud版本号](https://www.hjava.cn/articles/2020/08/20/1597909638127.html)
@@ -29,7 +30,6 @@
 * [电影分享—小丑.Joker.2019.HD1080P. 韩版英语中字](https://www.hjava.cn/articles/2019/11/15/1573787853367.html)
 * [SpringBoot自定义参数解析器—HandlerMethodArgumentResolver](https://www.hjava.cn/articles/2019/11/08/1573203264692.html)
 * [Spring Boot——@SpringBootApplication(exclude = DataSourceAutoConfiguration.class)](https://www.hjava.cn/articles/2019/10/30/1572431859394.html)
-* [薅羊毛——0元撸腾讯云服务器(云硬盘...)](https://www.hjava.cn/articles/2019/10/29/1572314884193.html)
 
 
 
