@@ -5,11 +5,12 @@
 <h4 align="center">静以修身，俭以养德</h4>
 <p align="center"><a title="少言少语" target="_blank" href="https://github.com/JssDream/solo-blog"><img src="https://img.shields.io/github/last-commit/JssDream/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/JssDream/solo-blog"><img src="https://img.shields.io/github/repo-size/JssDream/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.3.1-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.4.0-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/JssDream/solo-blog.svg"></a></p>
 
 ### 最新
 
+* [面试：String 为什么是不可变的？](https://www.hjava.cn/articles/2022/03/21/1647844375128.html)
 * [Spring Boot Admin 使用](https://www.hjava.cn/articles/2022/03/01/1646129161684.html)
 * [Intellij IDEA 高效使用教程(插件)](https://www.hjava.cn/articles/2021/12/09/1639029495498.html)
 * [MySQL对JSON类型的使用/查询/函数](https://www.hjava.cn/articles/2021/12/08/1638944634446.html)
@@ -29,7 +30,6 @@
 * [记录.gitignore文件不起作用](https://www.hjava.cn/articles/2020/05/24/1590312447443.html)
 * [EasyPOI—导出Excel图片问题](https://www.hjava.cn/articles/2020/04/27/1587970259806.html)
 * [Github+jsDelivr为脚本/图片等静态文件加速的全球CDN](https://www.hjava.cn/articles/2020/04/01/1585736011733.html)
-* [【薅羊毛】招商 APP- 理财福利](https://www.hjava.cn/articles/2020/03/27/1585289293648.html)
 
 
 
